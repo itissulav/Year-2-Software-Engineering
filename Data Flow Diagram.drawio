@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
   <diagram name="Page-1" id="Akb31RxIknfgXVOe-8zW">
-    <mxGraphModel dx="3464" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3969" dy="1743" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -955,7 +955,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4TP0NOpy63tgB9zRfUk-85" value="2.1&lt;div&gt;Recieve Stock Updates&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="S4TP0NOpy63tgB9zRfUk-85" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;Recieve Stock Updates&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-260" y="6970" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S4TP0NOpy63tgB9zRfUk-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="S4TP0NOpy63tgB9zRfUk-86" edge="1">
@@ -968,7 +968,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4TP0NOpy63tgB9zRfUk-86" value="2.2&lt;div&gt;Monitor Inventory Levels&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="S4TP0NOpy63tgB9zRfUk-86" value="2&lt;div&gt;Monitor Inventory Levels&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-100" y="7200" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S4TP0NOpy63tgB9zRfUk-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S4TP0NOpy63tgB9zRfUk-87" edge="1">
@@ -984,7 +984,7 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4TP0NOpy63tgB9zRfUk-87" value="2.3&lt;div&gt;Process Customer Orders&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="S4TP0NOpy63tgB9zRfUk-87" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;Process Customer Orders&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="6870" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S4TP0NOpy63tgB9zRfUk-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="S4TP0NOpy63tgB9zRfUk-88" edge="1">
@@ -1010,7 +1010,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4TP0NOpy63tgB9zRfUk-88" value="2.4&lt;div&gt;Generate Report&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="S4TP0NOpy63tgB9zRfUk-88" value="&lt;div&gt;3&lt;/div&gt;&lt;div&gt;Generate Report&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="470" y="7360" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="S4TP0NOpy63tgB9zRfUk-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="S4TP0NOpy63tgB9zRfUk-106" target="S4TP0NOpy63tgB9zRfUk-85" edge="1">
